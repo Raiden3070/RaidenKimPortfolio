@@ -344,13 +344,13 @@ section .title{
     width: 80%;
 }
 .skills-content .right .js::before{
-    width: 55%;
+    width: 90%;
 }
 .skills-content .right .pyt::before{
     width: 80%;
 }
 .skills-content .right .jav::before{
-    width: 60%;
+    width: 80%;
 }
 
 .skills .skills-content .right .list1{ 
