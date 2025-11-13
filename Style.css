@@ -338,7 +338,7 @@ section .title{
     background: royalblue;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .css::before{
     width: 80%;
@@ -350,7 +350,7 @@ section .title{
     width: 80%;
 }
 .skills-content .right .jav::before{
-    width: 80%;
+    width: 70%;
 }
 
 .skills .skills-content .right .list1{ 
